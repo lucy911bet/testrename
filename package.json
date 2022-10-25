@@ -1,0 +1,18 @@
+{
+  "name": "testrename",
+  "theme": "syntax",
+  "version": "1.2.1",
+  "description": "คาสิโนออนไลน์ อันดับหนึ่งในประเทศไทย giga888 สมัครรับโบนัสฟรี",
+  "keywords": [
+    "giga888",
+    "giga888 เครดิตฟรี",
+    "giga888 สมัครสมาชิก",
+    "giga888 เว็บตรง",
+    "giga888 สล็อต"
+  ],
+  "repository": "https://github.com/lucy911bet/testrename",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
